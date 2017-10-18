@@ -1,0 +1,5 @@
+const AppConst = {
+
+};
+
+export { AppConst };
