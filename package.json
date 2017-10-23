@@ -12,7 +12,7 @@
     "start": "webpack --watch --progress --colors",
     "build": "webpack --progress --colors"
   },
-  "author": "liphap",
+  "author": "skullee84@gmail.com",
   "license": "",
   "dependencies": {
     "classnames": "2.2.5",
